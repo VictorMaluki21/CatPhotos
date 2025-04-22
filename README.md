@@ -2,7 +2,7 @@
 A simple, responsive photo gallery of adorable cats built using HTML and CSS Flexbox.
 
 🚀 Live Demo
-Check it out here: Cat Photo Gallery
+Check it out here: [Cat Photo Gallery](https://victormaluki21.github.io/CatPhotos/)
 
 📸 Features
 Responsive design using CSS Flexbox
@@ -19,12 +19,13 @@ HTML5
 CSS3 (Flexbox)
 
 📂 File Structure
+
 graphql
-Copy
-Edit
+
 CatPhotos/
 ├── index.html      # Main HTML page
 └── styles.css      # Styling using CSS Flexbox
+
 📷 Gallery Preview
 
 💡 Inspiration
@@ -35,3 +36,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 📄 License
 This project is open source and available under the MIT License.
+
